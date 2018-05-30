@@ -1,0 +1,12 @@
+           public static void printOne() {
+	           system.out.println(hello World");
+
+           }
+
+	   public static void printTwo() {
+	           printOne();
+		   printOne();
+
+            }
+
+	}
