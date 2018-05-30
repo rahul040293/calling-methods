@@ -1,0 +1,9 @@
+public class triple-calling methodsinsmaeclass
+{
+
+      public static void main(string[] args)
+              printOne();
+	      printTwo();
+
+      }
+
